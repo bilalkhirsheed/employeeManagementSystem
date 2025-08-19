@@ -1,8 +1,15 @@
-# React + Vite
+The Employee Management System is a full-stack web application built with React (Vite), Node.js, Express, and MongoDB. It provides a user-friendly interface for employees and administrators to manage workplace operations efficiently.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Key Features:
 
-Currently, two official plugins are available:
+ Employee Profiles – Employees can manage and update their personal details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Attendance Management – Track employee attendance with reporting features.
+
+ Role-Based Access – Secure login system with separate dashboards for Admin and Employees.
+
+Admin Dashboard – CRUD operations for managing employees, roles, and records.
+
+ Reports Generation – Admin can generate detailed attendance and performance reports.
+
+This project demonstrates my ability to design scalable full-stack systems with authentication, CRUD functionality, and clean UI/UX for real-world business use cases.
